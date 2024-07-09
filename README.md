@@ -1,0 +1,1 @@
+Created my spam email classification model using two different classifier algorithm stacked together (svn and randomforest classifier) to give my model a better performance ...obtaining a precision and f1 score of 95% and 98%...with my model having a missclassification of 2 on the "not spam" class and just 7 missclassification on the "spam" class
